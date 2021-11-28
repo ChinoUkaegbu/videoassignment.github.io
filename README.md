@@ -4,9 +4,9 @@
 
 ### **Description**
 
-It has been a really bad day for John Doe(dummy name).
+It has been a really bad day for John Doe(dummy name). All manner of troubles have come their way from the moment they woke up and the day seems to be getting worse and worse as it progresses. From missed appointments to stomach aches to even running head first into a glass door, folllow John throughout the day and determine the sequence in which each of these events happened.
 
-This comic project leads the readers to narrowing down the exact place the cat went. Readers get to talk to a catmom, fellow campus cats, and looks around the map, and then the cat-napper calls the reader to tease them, but the cat-napper gets caught at the airport.
+This video project leads the users to determining the sequence in which the unfortunate events take place. The users take on the role of a professor whose student came late for an important class and thr users get to decide which videos they want to see as many times as they'd like in order to determine what happened and when. Clues are scattered throughout the videos and users would have to pay attention to these clues to determine the order.
 
 ### **Implementation**
 
