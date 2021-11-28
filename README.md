@@ -48,7 +48,7 @@ This video project leads the users to determining the sequence in which the unfo
 
 ### **Reflection**
 
-We found this project to be very fun! It was rather interesting to work on the different parts of the website together and to make some certain changes, discuss how we could make it better, discuss implementations etc. Overall, I believe our expectations for the project were met. We just really wanted the readers to have fun exploring the story and to have a very wholesome experience in total. We also believed the implementation was way less stressful than the first website, now that we've played around with website making so it was a really interesting experience. We hope the readers have as much fun experiencing the comic as we did making it!
+We found this project to be really exciting! It felt really cool handling all the cameras and sound equipment and determining what angles to take certain shots from and at some points it even felt as if we were taking a theater class. Filming and editing did take some time but it was interesting to see how even a little change made so much impact on how the final result looked like. The website was also really fun to work on and to not only implement a working website but also one that we felt conveyed the vibe of the project was a task we had fun doing. After this project, we do feel that we have gained a lot of skills and insight into the world of video editing and it was overall a very enjoyable experience
 
 
 ### **Interesting Notes**
